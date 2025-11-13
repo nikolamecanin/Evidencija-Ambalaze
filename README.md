@@ -31,4 +31,6 @@ Tehnologije
 
 4. U kodu podesiti parametre konekcije (korisničko ime, lozinka, naziv baze).
 
-5. Pokrenuti projekat kroz IntelliJ IDEA ili Eclipse.
+5. Pokrenuti projekat kroz IntelliJ IDEA, Eclipse ili Apache NetBeans.
+
+Nikola Mečanin
