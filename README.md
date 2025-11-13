@@ -23,8 +23,11 @@ Tehnologije
 1. Klonirati repozitorijum:  
    ```bash
    git clone https://github.com/nikolamecanin/Evidencija-Ambalaze.git
-2. U MySQL bazi kreirati bazu podataka prema priloženom SQL fajlu (database.sql).
+   
+2. U MySQL-u kreirati bazu pod nazivom diskont.
 
-3. U kodu podesiti parametre konekcije (korisničko ime, lozinka, naziv baze).
+3. Kreirati potrebne tabele i kolone prema strukturi iz koda (klase i SQL upiti u aplikaciji).
 
-4. Pokrenuti projekat kroz IntelliJ IDEA ili Eclipse.
+4. U kodu podesiti parametre konekcije (korisničko ime, lozinka, naziv baze).
+
+5. Pokrenuti projekat kroz IntelliJ IDEA ili Eclipse.
