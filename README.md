@@ -26,7 +26,8 @@ Tehnologije
    
 2. U MySQL-u kreirati bazu pod nazivom diskont.
 
-3. Kreirati potrebne tabele i kolone prema strukturi iz koda (klase i SQL upiti u aplikaciji).
+3. Kreirati potrebne tabele i kolone prema strukturi iz koda (klase i SQL upiti u aplikaciji),
+   ili koristiti fajl database.sql koji sadrži strukturu baze bez podataka.
 
 4. U kodu podesiti parametre konekcije (korisničko ime, lozinka, naziv baze).
 
