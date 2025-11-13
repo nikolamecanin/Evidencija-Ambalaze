@@ -3,7 +3,7 @@
 **Evidencija ambalaže** je jednostavna desktop aplikacija razvijena u programskom jeziku **Java**, korišćenjem **Swing** biblioteke za grafički interfejs i **MySQL** baze podataka za skladištenje podataka.  
 Aplikacija omogućava evidenciju zaduženja i razduženja ambalaže u manjim maloprodajnim objektima (npr. diskontima pića).
 
-## 🧩 Funkcionalnosti
+Funkcionalnosti
 
 - Evidencija korisnika i tipova ambalaže  
 - Unos, izmena i brisanje zapisa (CRUD operacije)  
@@ -11,14 +11,14 @@ Aplikacija omogućava evidenciju zaduženja i razduženja ambalaže u manjim mal
 - Jednostavan i pregledan korisnički interfejs  
 - Povezanost sa MySQL bazom podataka
 
-## ⚙️ Tehnologije
+Tehnologije
 
 - **Java (Swing)**
 - **MySQL**
 - **JDBC**
 - **Object-Oriented Programming (OOP)**
 
-## 🚀 Pokretanje aplikacije
+# Pokretanje aplikacije
 
 1. Klonirati repozitorijum:  
    ```bash
